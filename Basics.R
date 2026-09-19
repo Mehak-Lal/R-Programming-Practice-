@@ -14,7 +14,7 @@ X = 25     #Capital X is considered another variable
 x+X        #Prints the sum of x+X 
 
 
-2+5 
+2+5
 
 
 2*5 
