@@ -3,7 +3,7 @@
 #VECTORS OF EQUAL LENTGHS 
 Marks1 <- c(10,20,30,40,50)
 Marks2 <- c(60,70,80,90,100) 
-length(Marks1)
+length(Marks1) 
 length(Marks2)
 
 
