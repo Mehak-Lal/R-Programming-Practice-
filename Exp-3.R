@@ -23,7 +23,7 @@ summary(df)
 print("--- Extracting the 3rd Row ---")
 print(df[3, ])
 print("--- Extracting the 2nd Column (Names) ---")
-print(df[, 2])
+print(df[,2])
 
 
 #ADDING A NEW ROW
