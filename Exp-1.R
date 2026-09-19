@@ -6,7 +6,7 @@ print("Hello, this is Mehak Lal :-)")
 #ADDITION
 #Example-1 
 x <- 1+2
-x 
+x  
 
 
 #Example-2
